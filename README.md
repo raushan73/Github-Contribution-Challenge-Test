@@ -92,4 +92,4 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard fork -> clone -> edit -> pull request workflow that you'll often encounter as a contributor!
 
-Now Add your name in the [Contributors.md](https://github.com/obiwan04kanobi/Contribution-Challenge-Test/blob/main/Contributors.md) file and continue to fix bugs in [this repo](https://github.com/obiwan04kanobi/Github-Contribution-Challenge-2024)
+Now Add your name in the [Contributors.md](https://github.com/obiwan04kanobi/Github-Contribution-Challenge-Test/blob/main/Contributors.md) file and continue to fix bugs in [this repo](https://github.com/obiwan04kanobi/Github-Contribution-Challenge-2024)
